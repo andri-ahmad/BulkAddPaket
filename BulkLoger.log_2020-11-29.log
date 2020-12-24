@@ -1,0 +1,1497 @@
+2020-11-29 11:00:08 INFO  PrintOutput:41 - Found URL = 
+2020-11-29 11:00:08 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/getminipack
+2020-11-29 11:00:08 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-29 11:00:08 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-29 11:00:08 INFO  PrintOutput:41 - ----------------------------
+2020-11-29 11:00:08 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-29 11:00:14 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-29 11:00:14 INFO  PrintOutput:41 - 
+2020-11-29 11:00:14 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-29 11:00:14 INFO  PrintOutput:41 - RECORD : 3 - STB_ID : 69590898 - NAMA-PAKET : NUSA FTA - DURASI : 10 YEAR
+2020-11-29 11:00:15 INFO  PrintOutput:41 - Parameter sent to Server = {smartcard=69590898}
+2020-11-29 11:00:15 INFO  PrintOutput:41 - Parameter sent to Server Formated = smartcard=69590898
+2020-11-29 11:00:15 INFO  PrintOutput:41 - Connecting..
+2020-11-29 11:00:15 INFO  PrintOutput:41 - Connected..
+2020-11-29 11:00:15 INFO  PrintOutput:41 - Sending message..
+2020-11-29 11:00:15 INFO  PrintOutput:41 - message sent..
+2020-11-29 11:00:15 INFO  PrintOutput:41 - Response reading...
+2020-11-29 11:00:15 INFO  PrintOutput:41 - Server Response = {"status":"200","message":[{"nama_paket":"NUSA ANAK","harga_minipack":20000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA ANAK","harga_minipack":60000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA ANAK","harga_minipack":120000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA ANAK","harga_minipack":240000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":30000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":90000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":180000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":360000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":10000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":30000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":60000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":120000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":20000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":60000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":120000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":240000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":30000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":90000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":180000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":360000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":100000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":300000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":600000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":1200000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA FTA","harga_minipack":0,"durasi_paket":"10 YEAR"},{"nama_paket":"NUSA GOLF HD","harga_minipack":50000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA GOLF HD","harga_minipack":150000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA GOLF HD","harga_minipack":250000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA GOLF HD","harga_minipack":500000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":80000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":240000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":480000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":960000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":30000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":90000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":180000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":360000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":20000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":60000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":120000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":240000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":15000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":45000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":75000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":150000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":60000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":180000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":360000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":720000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA MVP","harga_minipack":10000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA MVP","harga_minipack":50000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA MVP","harga_minipack":100000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":10000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":30000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":60000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":120000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":50000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":150000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":300000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":600000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":200000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":600000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":1200000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":2400000,"durasi_paket":"12 MONTH"}]}
+2020-11-29 11:00:15 INFO  PrintOutput:41 - Disconnecting from http..
+2020-11-29 11:00:15 INFO  PrintOutput:41 - Disconnected
+2020-11-29 11:00:15 INFO  PrintOutput:41 - 200
+2020-11-29 11:00:15 INFO  PrintOutput:41 - Found 64 product 
+2020-11-29 11:00:15 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-29 11:00:15 INFO  PrintOutput:41 - -----------------------------
+2020-11-29 11:15:07 INFO  PrintOutput:41 - Found URL = 
+2020-11-29 11:15:07 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/getminipack
+2020-11-29 11:15:07 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-29 11:15:07 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-29 11:15:07 INFO  PrintOutput:41 - ----------------------------
+2020-11-29 11:15:07 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-29 11:15:13 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-29 11:15:13 INFO  PrintOutput:41 - 
+2020-11-29 11:15:13 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-29 11:15:13 INFO  PrintOutput:41 - RECORD : 3 - STB_ID : 69590898 - NAMA-PAKET : NUSA FTA - DURASI : 10 YEAR
+2020-11-29 11:15:13 INFO  PrintOutput:41 - Parameter sent to Server = {smartcard=69590898}
+2020-11-29 11:15:13 INFO  PrintOutput:41 - Parameter sent to Server Formated = smartcard=69590898
+2020-11-29 11:15:13 INFO  PrintOutput:41 - Connecting..
+2020-11-29 11:15:13 INFO  PrintOutput:41 - Connected..
+2020-11-29 11:15:13 INFO  PrintOutput:41 - Sending message..
+2020-11-29 11:15:13 INFO  PrintOutput:41 - message sent..
+2020-11-29 11:15:13 INFO  PrintOutput:41 - Response reading...
+2020-11-29 11:15:14 INFO  PrintOutput:41 - Server Response = {"status":"200","message":[{"nama_paket":"NUSA ANAK","harga_minipack":20000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA ANAK","harga_minipack":60000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA ANAK","harga_minipack":120000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA ANAK","harga_minipack":240000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":30000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":90000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":180000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":360000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":10000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":30000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":60000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":120000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":20000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":60000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":120000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":240000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":30000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":90000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":180000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":360000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":100000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":300000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":600000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":1200000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA FTA","harga_minipack":0,"durasi_paket":"10 YEAR"},{"nama_paket":"NUSA GOLF HD","harga_minipack":50000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA GOLF HD","harga_minipack":150000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA GOLF HD","harga_minipack":250000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA GOLF HD","harga_minipack":500000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":80000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":240000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":480000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":960000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":30000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":90000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":180000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":360000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":20000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":60000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":120000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":240000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":15000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":45000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":75000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":150000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":60000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":180000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":360000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":720000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA MVP","harga_minipack":10000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA MVP","harga_minipack":50000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA MVP","harga_minipack":100000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":10000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":30000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":60000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":120000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":50000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":150000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":300000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":600000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":200000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":600000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":1200000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":2400000,"durasi_paket":"12 MONTH"}]}
+2020-11-29 11:15:14 INFO  PrintOutput:41 - Disconnecting from http..
+2020-11-29 11:15:14 INFO  PrintOutput:41 - Disconnected
+2020-11-29 11:15:14 INFO  PrintOutput:41 - 200
+2020-11-29 11:15:14 INFO  PrintOutput:41 - Found 64 product 
+2020-11-29 11:15:14 INFO  PrintOutput:41 - nama_paket :NUSA ANAK 
+2020-11-29 11:15:14 INFO  PrintOutput:41 - FINISH with Exception, CLOSING DB CONNECTION
+2020-11-29 11:16:59 INFO  PrintOutput:41 - Found URL = 
+2020-11-29 11:16:59 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/getminipack
+2020-11-29 11:16:59 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-29 11:16:59 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-29 11:16:59 INFO  PrintOutput:41 - ----------------------------
+2020-11-29 11:16:59 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-29 11:17:05 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-29 11:17:05 INFO  PrintOutput:41 - 
+2020-11-29 11:17:05 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-29 11:17:05 INFO  PrintOutput:41 - RECORD : 3 - STB_ID : 69590898 - NAMA-PAKET : NUSA FTA - DURASI : 10 YEAR
+2020-11-29 11:17:05 INFO  PrintOutput:41 - Parameter sent to Server = {smartcard=69590898}
+2020-11-29 11:17:05 INFO  PrintOutput:41 - Parameter sent to Server Formated = smartcard=69590898
+2020-11-29 11:17:05 INFO  PrintOutput:41 - Connecting..
+2020-11-29 11:17:05 INFO  PrintOutput:41 - Connected..
+2020-11-29 11:17:05 INFO  PrintOutput:41 - Sending message..
+2020-11-29 11:17:05 INFO  PrintOutput:41 - message sent..
+2020-11-29 11:17:05 INFO  PrintOutput:41 - Response reading...
+2020-11-29 11:17:05 INFO  PrintOutput:41 - Server Response = {"status":"200","message":[{"nama_paket":"NUSA ANAK","harga_minipack":20000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA ANAK","harga_minipack":60000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA ANAK","harga_minipack":120000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA ANAK","harga_minipack":240000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":30000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":90000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":180000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":360000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":10000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":30000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":60000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":120000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":20000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":60000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":120000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":240000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":30000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":90000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":180000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":360000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":100000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":300000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":600000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":1200000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA FTA","harga_minipack":0,"durasi_paket":"10 YEAR"},{"nama_paket":"NUSA GOLF HD","harga_minipack":50000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA GOLF HD","harga_minipack":150000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA GOLF HD","harga_minipack":250000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA GOLF HD","harga_minipack":500000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":80000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":240000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":480000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":960000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":30000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":90000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":180000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":360000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":20000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":60000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":120000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":240000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":15000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":45000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":75000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":150000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":60000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":180000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":360000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":720000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA MVP","harga_minipack":10000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA MVP","harga_minipack":50000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA MVP","harga_minipack":100000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":10000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":30000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":60000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":120000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":50000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":150000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":300000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":600000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":200000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":600000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":1200000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":2400000,"durasi_paket":"12 MONTH"}]}
+2020-11-29 11:17:05 INFO  PrintOutput:41 - Disconnecting from http..
+2020-11-29 11:17:05 INFO  PrintOutput:41 - Disconnected
+2020-11-29 11:17:05 INFO  PrintOutput:41 - 200
+2020-11-29 11:17:05 INFO  PrintOutput:41 - Found 64 product 
+2020-11-29 11:17:05 INFO  PrintOutput:41 - nama_paket :NUSA ANAK 
+2020-11-29 11:17:05 INFO  PrintOutput:41 - FINISH with Exception, CLOSING DB CONNECTION & org.json.JSONException: JSONObject["harga_minipack"] not a string.
+2020-11-29 11:18:15 INFO  PrintOutput:41 - Found URL = 
+2020-11-29 11:18:15 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/getminipack
+2020-11-29 11:18:15 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-29 11:18:15 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-29 11:18:15 INFO  PrintOutput:41 - ----------------------------
+2020-11-29 11:18:15 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-29 11:18:21 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-29 11:18:21 INFO  PrintOutput:41 - 
+2020-11-29 11:18:21 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-29 11:18:21 INFO  PrintOutput:41 - RECORD : 3 - STB_ID : 69590898 - NAMA-PAKET : NUSA FTA - DURASI : 10 YEAR
+2020-11-29 11:18:21 INFO  PrintOutput:41 - Parameter sent to Server = {smartcard=69590898}
+2020-11-29 11:18:21 INFO  PrintOutput:41 - Parameter sent to Server Formated = smartcard=69590898
+2020-11-29 11:18:21 INFO  PrintOutput:41 - Connecting..
+2020-11-29 11:18:21 INFO  PrintOutput:41 - Connected..
+2020-11-29 11:18:21 INFO  PrintOutput:41 - Sending message..
+2020-11-29 11:18:21 INFO  PrintOutput:41 - message sent..
+2020-11-29 11:18:21 INFO  PrintOutput:41 - Response reading...
+2020-11-29 11:18:21 INFO  PrintOutput:41 - Server Response = {"status":"200","message":[{"nama_paket":"NUSA ANAK","harga_minipack":20000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA ANAK","harga_minipack":60000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA ANAK","harga_minipack":120000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA ANAK","harga_minipack":240000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":30000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":90000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":180000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":360000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":10000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":30000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":60000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":120000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":20000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":60000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":120000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":240000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":30000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":90000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":180000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":360000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":100000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":300000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":600000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":1200000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA FTA","harga_minipack":0,"durasi_paket":"10 YEAR"},{"nama_paket":"NUSA GOLF HD","harga_minipack":50000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA GOLF HD","harga_minipack":150000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA GOLF HD","harga_minipack":250000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA GOLF HD","harga_minipack":500000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":80000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":240000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":480000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":960000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":30000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":90000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":180000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":360000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":20000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":60000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":120000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":240000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":15000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":45000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":75000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":150000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":60000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":180000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":360000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":720000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA MVP","harga_minipack":10000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA MVP","harga_minipack":50000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA MVP","harga_minipack":100000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":10000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":30000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":60000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":120000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":50000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":150000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":300000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":600000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":200000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":600000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":1200000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":2400000,"durasi_paket":"12 MONTH"}]}
+2020-11-29 11:18:21 INFO  PrintOutput:41 - Disconnecting from http..
+2020-11-29 11:18:21 INFO  PrintOutput:41 - Disconnected
+2020-11-29 11:18:21 INFO  PrintOutput:41 - 200
+2020-11-29 11:18:21 INFO  PrintOutput:41 - Found 64 product 
+2020-11-29 11:18:21 INFO  PrintOutput:41 - nama_paket :NUSA ANAK 
+2020-11-29 11:18:21 INFO  PrintOutput:41 - FINISH with Exception, CLOSING DB CONNECTION & org.json.JSONException: JSONObject["harga_minipack"] not a string.
+2020-11-29 11:18:21 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-29 11:18:21 INFO  PrintOutput:41 - -----------------------------
+2020-11-29 11:21:03 INFO  PrintOutput:41 - Found URL = 
+2020-11-29 11:21:03 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/getminipack
+2020-11-29 11:21:03 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-29 11:21:03 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-29 11:21:03 INFO  PrintOutput:41 - ----------------------------
+2020-11-29 11:21:03 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-29 11:21:09 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-29 11:21:09 INFO  PrintOutput:41 - 
+2020-11-29 11:21:09 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-29 11:21:09 INFO  PrintOutput:41 - RECORD : 3 - STB_ID : 69590898 - NAMA-PAKET : NUSA FTA - DURASI : 10 YEAR
+2020-11-29 11:21:09 INFO  PrintOutput:41 - Parameter sent to Server = {smartcard=69590898}
+2020-11-29 11:21:09 INFO  PrintOutput:41 - Parameter sent to Server Formated = smartcard=69590898
+2020-11-29 11:21:09 INFO  PrintOutput:41 - Connecting..
+2020-11-29 11:21:10 INFO  PrintOutput:41 - Connected..
+2020-11-29 11:21:10 INFO  PrintOutput:41 - Sending message..
+2020-11-29 11:21:10 INFO  PrintOutput:41 - message sent..
+2020-11-29 11:21:10 INFO  PrintOutput:41 - Response reading...
+2020-11-29 11:21:10 INFO  PrintOutput:41 - Server Response = {"status":"200","message":[{"nama_paket":"NUSA ANAK","harga_minipack":20000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA ANAK","harga_minipack":60000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA ANAK","harga_minipack":120000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA ANAK","harga_minipack":240000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":30000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":90000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":180000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":360000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":10000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":30000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":60000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":120000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":20000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":60000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":120000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":240000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":30000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":90000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":180000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":360000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":100000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":300000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":600000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":1200000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA FTA","harga_minipack":0,"durasi_paket":"10 YEAR"},{"nama_paket":"NUSA GOLF HD","harga_minipack":50000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA GOLF HD","harga_minipack":150000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA GOLF HD","harga_minipack":250000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA GOLF HD","harga_minipack":500000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":80000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":240000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":480000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":960000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":30000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":90000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":180000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":360000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":20000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":60000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":120000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":240000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":15000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":45000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":75000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":150000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":60000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":180000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":360000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":720000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA MVP","harga_minipack":10000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA MVP","harga_minipack":50000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA MVP","harga_minipack":100000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":10000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":30000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":60000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":120000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":50000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":150000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":300000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":600000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":200000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":600000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":1200000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":2400000,"durasi_paket":"12 MONTH"}]}
+2020-11-29 11:21:10 INFO  PrintOutput:41 - Disconnecting from http..
+2020-11-29 11:21:10 INFO  PrintOutput:41 - Disconnected
+2020-11-29 11:21:10 INFO  PrintOutput:41 - 200
+2020-11-29 11:21:10 INFO  PrintOutput:41 - Found 64 product 
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA ANAK
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 20000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA ANAK
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 60000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA ANAK
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 120000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA ANAK
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 240000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA ANAK HEBAT
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 30000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA ANAK HEBAT
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 90000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA ANAK HEBAT
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 180000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA ANAK HEBAT
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 360000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA CARTOON
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 10000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA CARTOON
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 30000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA CARTOON
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 60000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA CARTOON
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 120000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA DISNEY
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 20000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA DISNEY
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 60000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA DISNEY
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 120000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA DISNEY
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 240000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA FILM
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 30000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA FILM
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 90000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA FILM
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 180000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA FILM
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 360000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA FILM HEBAT
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 100000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA FILM HEBAT
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 300000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA FILM HEBAT
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 600000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA FILM HEBAT
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 1200000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA FTA
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 0
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 10 YEAR
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA GOLF HD
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 50000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA GOLF HD
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 150000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA GOLF HD
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 250000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA GOLF HD
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 500000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA HBO
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 80000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA HBO
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 240000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA HBO
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 480000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA HBO
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 960000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN ASIA
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 30000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN ASIA
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 90000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN ASIA
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 180000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN ASIA
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 360000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN BARAT
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 20000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN BARAT
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 60000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN BARAT
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 120000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN BARAT
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 240000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA JEPANG HD
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 15000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA JEPANG HD
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 45000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA JEPANG HD
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 75000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA JEPANG HD
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 150000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA LENGKAP
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 60000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA LENGKAP
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 180000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA LENGKAP
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 360000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA LENGKAP
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 720000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA MVP
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 10000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA MVP
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 50000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA MVP
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 100000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA NICK
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 10000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA NICK
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 30000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA NICK
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 60000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA NICK
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 120000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA OLAHRAGA
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 50000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA OLAHRAGA
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 150000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA OLAHRAGA
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 300000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA OLAHRAGA
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 600000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA PREMIUM
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 200000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA PREMIUM
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 600000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA PREMIUM
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 1200000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - nama_paket : NUSA PREMIUM
+2020-11-29 11:21:10 INFO  PrintOutput:41 - harga_minipack : 2400000
+2020-11-29 11:21:10 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:21:10 INFO  PrintOutput:41 - FINISH with Exception, CLOSING DB CONNECTION & java.lang.NullPointerException: Cannot invoke "org.json.JSONObject.getString(String)" because "product" is null
+2020-11-29 11:21:10 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-29 11:21:10 INFO  PrintOutput:41 - -----------------------------
+2020-11-29 11:22:23 INFO  PrintOutput:41 - Found URL = 
+2020-11-29 11:22:23 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/getminipack
+2020-11-29 11:22:23 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-29 11:22:23 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-29 11:22:23 INFO  PrintOutput:41 - ----------------------------
+2020-11-29 11:22:23 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-29 11:22:29 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-29 11:22:29 INFO  PrintOutput:41 - 
+2020-11-29 11:22:29 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-29 11:22:29 INFO  PrintOutput:41 - RECORD : 3 - STB_ID : 69590898 - NAMA-PAKET : NUSA FTA - DURASI : 10 YEAR
+2020-11-29 11:22:29 INFO  PrintOutput:41 - Parameter sent to Server = {smartcard=69590898}
+2020-11-29 11:22:29 INFO  PrintOutput:41 - Parameter sent to Server Formated = smartcard=69590898
+2020-11-29 11:22:29 INFO  PrintOutput:41 - Connecting..
+2020-11-29 11:22:29 INFO  PrintOutput:41 - Connected..
+2020-11-29 11:22:29 INFO  PrintOutput:41 - Sending message..
+2020-11-29 11:22:29 INFO  PrintOutput:41 - message sent..
+2020-11-29 11:22:29 INFO  PrintOutput:41 - Response reading...
+2020-11-29 11:22:30 INFO  PrintOutput:41 - Server Response = {"status":"200","message":[{"nama_paket":"NUSA ANAK","harga_minipack":20000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA ANAK","harga_minipack":60000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA ANAK","harga_minipack":120000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA ANAK","harga_minipack":240000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":30000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":90000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":180000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":360000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":10000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":30000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":60000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":120000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":20000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":60000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":120000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":240000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":30000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":90000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":180000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":360000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":100000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":300000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":600000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":1200000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA FTA","harga_minipack":0,"durasi_paket":"10 YEAR"},{"nama_paket":"NUSA GOLF HD","harga_minipack":50000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA GOLF HD","harga_minipack":150000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA GOLF HD","harga_minipack":250000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA GOLF HD","harga_minipack":500000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":80000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":240000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":480000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":960000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":30000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":90000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":180000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":360000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":20000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":60000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":120000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":240000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":15000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":45000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":75000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":150000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":60000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":180000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":360000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":720000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA MVP","harga_minipack":10000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA MVP","harga_minipack":50000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA MVP","harga_minipack":100000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":10000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":30000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":60000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":120000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":50000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":150000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":300000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":600000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":200000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":600000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":1200000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":2400000,"durasi_paket":"12 MONTH"}]}
+2020-11-29 11:22:30 INFO  PrintOutput:41 - Disconnecting from http..
+2020-11-29 11:22:30 INFO  PrintOutput:41 - Disconnected
+2020-11-29 11:22:30 INFO  PrintOutput:41 - Response status = 200
+2020-11-29 11:22:30 INFO  PrintOutput:41 - Found Message = 64 product 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 1 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA ANAK
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 20000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 2 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA ANAK
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 60000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 3 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA ANAK
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 120000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 4 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA ANAK
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 240000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 5 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA ANAK HEBAT
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 30000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 6 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA ANAK HEBAT
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 90000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 7 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA ANAK HEBAT
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 180000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 8 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA ANAK HEBAT
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 360000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 9 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA CARTOON
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 10000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 10 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA CARTOON
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 30000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 11 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA CARTOON
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 60000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 12 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA CARTOON
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 120000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 13 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA DISNEY
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 20000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 14 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA DISNEY
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 60000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 15 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA DISNEY
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 120000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 16 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA DISNEY
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 240000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 17 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA FILM
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 30000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 18 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA FILM
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 90000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 19 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA FILM
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 180000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 20 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA FILM
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 360000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 21 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA FILM HEBAT
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 100000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 22 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA FILM HEBAT
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 300000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 23 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA FILM HEBAT
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 600000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 24 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA FILM HEBAT
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 1200000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 25 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA FTA
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 0
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 10 YEAR
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 26 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA GOLF HD
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 50000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 27 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA GOLF HD
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 150000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 28 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA GOLF HD
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 250000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 29 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA GOLF HD
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 500000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 30 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA HBO
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 80000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 31 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA HBO
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 240000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 32 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA HBO
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 480000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 33 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA HBO
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 960000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 34 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN ASIA
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 30000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 35 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN ASIA
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 90000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 36 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN ASIA
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 180000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 37 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN ASIA
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 360000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 38 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN BARAT
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 20000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 39 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN BARAT
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 60000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 40 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN BARAT
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 120000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 41 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN BARAT
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 240000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 42 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA JEPANG HD
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 15000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 43 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA JEPANG HD
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 45000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 44 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA JEPANG HD
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 75000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 45 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA JEPANG HD
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 150000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 46 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA LENGKAP
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 60000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 47 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA LENGKAP
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 180000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 48 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA LENGKAP
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 360000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 49 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA LENGKAP
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 720000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 50 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA MVP
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 10000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 51 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA MVP
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 50000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 52 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA MVP
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 100000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 53 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA NICK
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 10000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 54 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA NICK
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 30000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 55 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA NICK
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 60000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 56 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA NICK
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 120000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 57 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA OLAHRAGA
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 50000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 58 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA OLAHRAGA
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 150000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 59 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA OLAHRAGA
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 300000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 60 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA OLAHRAGA
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 600000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 61 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA PREMIUM
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 200000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 62 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA PREMIUM
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 600000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 63 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA PREMIUM
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 1200000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 64 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - nama_paket : NUSA PREMIUM
+2020-11-29 11:22:30 INFO  PrintOutput:41 - harga_minipack : 2400000
+2020-11-29 11:22:30 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:22:30 INFO  PrintOutput:41 - 65 
+2020-11-29 11:22:30 INFO  PrintOutput:41 - FINISH with Exception, CLOSING DB CONNECTION & java.lang.NullPointerException: Cannot invoke "org.json.JSONObject.getString(String)" because "product" is null
+2020-11-29 11:22:30 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-29 11:22:30 INFO  PrintOutput:41 - -----------------------------
+2020-11-29 11:22:55 INFO  PrintOutput:41 - Found URL = 
+2020-11-29 11:22:55 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/getminipack
+2020-11-29 11:22:55 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-29 11:22:55 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-29 11:22:55 INFO  PrintOutput:41 - ----------------------------
+2020-11-29 11:22:55 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-29 11:23:01 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-29 11:23:01 INFO  PrintOutput:41 - RECORD : 3 - STB_ID : 69590898 - NAMA-PAKET : NUSA FTA - DURASI : 10 YEAR
+2020-11-29 11:23:01 INFO  PrintOutput:41 - Parameter sent to Server = {smartcard=69590898}
+2020-11-29 11:23:01 INFO  PrintOutput:41 - Parameter sent to Server Formated = smartcard=69590898
+2020-11-29 11:23:01 INFO  PrintOutput:41 - Connecting..
+2020-11-29 11:23:01 INFO  PrintOutput:41 - Connected..
+2020-11-29 11:23:01 INFO  PrintOutput:41 - Sending message..
+2020-11-29 11:23:01 INFO  PrintOutput:41 - message sent..
+2020-11-29 11:23:01 INFO  PrintOutput:41 - Response reading...
+2020-11-29 11:23:01 INFO  PrintOutput:41 - Server Response = {"status":"200","message":[{"nama_paket":"NUSA ANAK","harga_minipack":20000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA ANAK","harga_minipack":60000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA ANAK","harga_minipack":120000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA ANAK","harga_minipack":240000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":30000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":90000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":180000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":360000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":10000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":30000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":60000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":120000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":20000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":60000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":120000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":240000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":30000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":90000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":180000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":360000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":100000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":300000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":600000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":1200000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA FTA","harga_minipack":0,"durasi_paket":"10 YEAR"},{"nama_paket":"NUSA GOLF HD","harga_minipack":50000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA GOLF HD","harga_minipack":150000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA GOLF HD","harga_minipack":250000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA GOLF HD","harga_minipack":500000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":80000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":240000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":480000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":960000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":30000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":90000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":180000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":360000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":20000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":60000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":120000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":240000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":15000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":45000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":75000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":150000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":60000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":180000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":360000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":720000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA MVP","harga_minipack":10000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA MVP","harga_minipack":50000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA MVP","harga_minipack":100000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":10000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":30000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":60000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":120000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":50000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":150000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":300000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":600000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":200000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":600000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":1200000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":2400000,"durasi_paket":"12 MONTH"}]}
+2020-11-29 11:23:01 INFO  PrintOutput:41 - Disconnecting from http..
+2020-11-29 11:23:01 INFO  PrintOutput:41 - Disconnected
+2020-11-29 11:23:01 INFO  PrintOutput:41 - Response status = 200
+2020-11-29 11:23:01 INFO  PrintOutput:41 - Found Message = 64 product 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 1 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA ANAK
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 20000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 2 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA ANAK
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 60000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 3 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA ANAK
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 120000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 4 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA ANAK
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 240000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 5 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA ANAK HEBAT
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 30000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 6 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA ANAK HEBAT
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 90000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 7 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA ANAK HEBAT
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 180000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 8 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA ANAK HEBAT
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 360000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 9 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA CARTOON
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 10000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 10 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA CARTOON
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 30000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 11 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA CARTOON
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 60000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 12 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA CARTOON
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 120000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 13 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA DISNEY
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 20000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 14 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA DISNEY
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 60000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 15 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA DISNEY
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 120000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 16 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA DISNEY
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 240000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 17 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA FILM
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 30000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 18 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA FILM
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 90000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 19 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA FILM
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 180000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 20 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA FILM
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 360000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 21 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA FILM HEBAT
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 100000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 22 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA FILM HEBAT
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 300000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 23 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA FILM HEBAT
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 600000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 24 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA FILM HEBAT
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 1200000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 25 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA FTA
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 0
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 10 YEAR
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 26 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA GOLF HD
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 50000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 27 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA GOLF HD
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 150000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 28 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA GOLF HD
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 250000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 29 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA GOLF HD
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 500000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 30 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA HBO
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 80000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 31 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA HBO
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 240000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 32 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA HBO
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 480000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 33 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA HBO
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 960000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 34 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN ASIA
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 30000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 35 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN ASIA
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 90000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 36 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN ASIA
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 180000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 37 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN ASIA
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 360000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 38 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN BARAT
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 20000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 39 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN BARAT
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 60000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 40 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN BARAT
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 120000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 41 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN BARAT
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 240000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 42 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA JEPANG HD
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 15000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 43 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA JEPANG HD
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 45000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 44 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA JEPANG HD
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 75000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 45 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA JEPANG HD
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 150000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 46 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA LENGKAP
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 60000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 47 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA LENGKAP
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 180000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 48 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA LENGKAP
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 360000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 49 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA LENGKAP
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 720000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 50 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA MVP
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 10000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 51 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA MVP
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 50000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 52 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA MVP
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 100000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 53 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA NICK
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 10000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 54 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA NICK
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 30000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 55 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA NICK
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 60000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 56 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA NICK
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 120000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 57 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA OLAHRAGA
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 50000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 58 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA OLAHRAGA
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 150000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 59 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA OLAHRAGA
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 300000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 60 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA OLAHRAGA
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 600000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 61 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA PREMIUM
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 200000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 62 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA PREMIUM
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 600000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 63 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA PREMIUM
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 1200000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - 64 
+2020-11-29 11:23:01 INFO  PrintOutput:41 - nama_paket : NUSA PREMIUM
+2020-11-29 11:23:01 INFO  PrintOutput:41 - harga_minipack : 2400000
+2020-11-29 11:23:01 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:01 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-29 11:23:01 INFO  PrintOutput:41 - -----------------------------
+2020-11-29 11:23:14 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/setminipack
+2020-11-29 11:23:15 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/getminipack
+2020-11-29 11:23:15 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-29 11:23:15 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-29 11:23:15 INFO  PrintOutput:41 - ----------------------------
+2020-11-29 11:23:15 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-29 11:23:20 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-29 11:23:20 INFO  PrintOutput:41 - 
+2020-11-29 11:23:20 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-29 11:23:20 INFO  PrintOutput:41 - RECORD : 3 - STB_ID : 69590898 - NAMA-PAKET : NUSA FTA - DURASI : 10 YEAR
+2020-11-29 11:23:20 INFO  PrintOutput:41 - Parameter sent to Server = {smartcard=69590898}
+2020-11-29 11:23:20 INFO  PrintOutput:41 - Parameter sent to Server Formated = smartcard=69590898
+2020-11-29 11:23:20 INFO  PrintOutput:41 - Connecting..
+2020-11-29 11:23:21 INFO  PrintOutput:41 - Connected..
+2020-11-29 11:23:21 INFO  PrintOutput:41 - Sending message..
+2020-11-29 11:23:21 INFO  PrintOutput:41 - message sent..
+2020-11-29 11:23:21 INFO  PrintOutput:41 - Response reading...
+2020-11-29 11:23:21 INFO  PrintOutput:41 - Server Response = {"status":"200","message":[{"nama_paket":"NUSA ANAK","harga_minipack":20000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA ANAK","harga_minipack":60000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA ANAK","harga_minipack":120000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA ANAK","harga_minipack":240000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":30000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":90000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":180000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":360000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":10000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":30000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":60000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":120000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":20000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":60000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":120000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":240000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":30000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":90000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":180000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":360000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":100000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":300000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":600000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":1200000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA FTA","harga_minipack":0,"durasi_paket":"10 YEAR"},{"nama_paket":"NUSA GOLF HD","harga_minipack":50000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA GOLF HD","harga_minipack":150000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA GOLF HD","harga_minipack":250000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA GOLF HD","harga_minipack":500000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":80000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":240000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":480000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":960000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":30000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":90000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":180000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":360000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":20000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":60000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":120000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":240000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":15000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":45000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":75000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":150000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":60000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":180000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":360000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":720000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA MVP","harga_minipack":10000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA MVP","harga_minipack":50000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA MVP","harga_minipack":100000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":10000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":30000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":60000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":120000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":50000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":150000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":300000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":600000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":200000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":600000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":1200000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":2400000,"durasi_paket":"12 MONTH"}]}
+2020-11-29 11:23:21 INFO  PrintOutput:41 - Disconnecting from http..
+2020-11-29 11:23:21 INFO  PrintOutput:41 - Disconnected
+2020-11-29 11:23:21 INFO  PrintOutput:41 - Response status = 200
+2020-11-29 11:23:21 INFO  PrintOutput:41 - Found Message = 64 product 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 1 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA ANAK
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 20000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 2 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA ANAK
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 60000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 3 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA ANAK
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 120000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 4 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA ANAK
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 240000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 5 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA ANAK HEBAT
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 30000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 6 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA ANAK HEBAT
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 90000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 7 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA ANAK HEBAT
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 180000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 8 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA ANAK HEBAT
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 360000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 9 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA CARTOON
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 10000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 10 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA CARTOON
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 30000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 11 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA CARTOON
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 60000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 12 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA CARTOON
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 120000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 13 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA DISNEY
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 20000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 14 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA DISNEY
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 60000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 15 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA DISNEY
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 120000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 16 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA DISNEY
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 240000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 17 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA FILM
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 30000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 18 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA FILM
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 90000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 19 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA FILM
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 180000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 20 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA FILM
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 360000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 21 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA FILM HEBAT
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 100000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 22 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA FILM HEBAT
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 300000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 23 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA FILM HEBAT
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 600000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 24 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA FILM HEBAT
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 1200000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 25 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA FTA
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 0
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 10 YEAR
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 26 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA GOLF HD
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 50000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 27 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA GOLF HD
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 150000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 28 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA GOLF HD
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 250000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 29 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA GOLF HD
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 500000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 30 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA HBO
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 80000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 31 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA HBO
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 240000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 32 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA HBO
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 480000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 33 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA HBO
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 960000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 34 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN ASIA
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 30000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 35 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN ASIA
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 90000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 36 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN ASIA
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 180000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 37 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN ASIA
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 360000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 38 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN BARAT
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 20000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 39 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN BARAT
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 60000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 40 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN BARAT
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 120000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 41 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA HIBURAN BARAT
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 240000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 42 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA JEPANG HD
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 15000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 43 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA JEPANG HD
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 45000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 44 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA JEPANG HD
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 75000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 45 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA JEPANG HD
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 150000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 46 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA LENGKAP
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 60000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 47 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA LENGKAP
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 180000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 48 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA LENGKAP
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 360000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 49 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA LENGKAP
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 720000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 50 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA MVP
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 10000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 51 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA MVP
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 50000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 52 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA MVP
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 100000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 53 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA NICK
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 10000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 54 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA NICK
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 30000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 55 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA NICK
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 60000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 56 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA NICK
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 120000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 57 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA OLAHRAGA
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 50000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 58 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA OLAHRAGA
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 150000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 59 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA OLAHRAGA
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 300000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 60 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA OLAHRAGA
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 600000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 61 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA PREMIUM
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 200000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 1 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 62 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA PREMIUM
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 600000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 3 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 63 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA PREMIUM
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 1200000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 6 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - 64 
+2020-11-29 11:23:21 INFO  PrintOutput:41 - nama_paket : NUSA PREMIUM
+2020-11-29 11:23:21 INFO  PrintOutput:41 - harga_minipack : 2400000
+2020-11-29 11:23:21 INFO  PrintOutput:41 - durasi_paket : 12 MONTH
+2020-11-29 11:23:21 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-29 11:23:21 INFO  PrintOutput:41 - -----------------------------
+2020-11-29 11:58:23 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/setminipack
+2020-11-29 11:58:23 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/getminipack
+2020-11-29 11:58:23 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-29 11:58:23 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-29 11:58:23 INFO  PrintOutput:41 - ----------------------------
+2020-11-29 11:58:23 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-29 11:58:28 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-29 11:58:29 INFO  PrintOutput:41 - 
+2020-11-29 11:58:29 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-29 11:58:29 INFO  PrintOutput:41 - RECORD : 3 - STB_ID : 69590898 - NAMA-PAKET : NUSA FTA - DURASI : 10 YEAR
+2020-11-29 11:58:29 INFO  PrintOutput:41 - Parameter sent to Server = {smartcard=69590898}
+2020-11-29 11:58:29 INFO  PrintOutput:41 - Parameter sent to Server Formated = smartcard=69590898
+2020-11-29 11:58:29 INFO  PrintOutput:41 - Connecting..
+2020-11-29 11:58:29 INFO  PrintOutput:41 - Connected..
+2020-11-29 11:58:29 INFO  PrintOutput:41 - Sending message..
+2020-11-29 11:58:29 INFO  PrintOutput:41 - message sent..
+2020-11-29 11:58:29 INFO  PrintOutput:41 - Response reading...
+2020-11-29 11:58:29 INFO  PrintOutput:41 - Server Response = {"status":"200","message":[{"nama_paket":"NUSA ANAK","harga_minipack":20000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA ANAK","harga_minipack":60000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA ANAK","harga_minipack":120000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA ANAK","harga_minipack":240000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":30000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":90000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":180000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA ANAK HEBAT","harga_minipack":360000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":10000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":30000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":60000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA CARTOON","harga_minipack":120000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":20000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":60000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":120000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA DISNEY","harga_minipack":240000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":30000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":90000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":180000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA FILM","harga_minipack":360000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":100000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":300000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":600000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA FILM HEBAT","harga_minipack":1200000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA FTA","harga_minipack":0,"durasi_paket":"10 YEAR"},{"nama_paket":"NUSA GOLF HD","harga_minipack":50000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA GOLF HD","harga_minipack":150000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA GOLF HD","harga_minipack":250000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA GOLF HD","harga_minipack":500000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":80000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":240000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":480000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA HBO","harga_minipack":960000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":30000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":90000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":180000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA HIBURAN ASIA","harga_minipack":360000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":20000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":60000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":120000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA HIBURAN BARAT","harga_minipack":240000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":15000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":45000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":75000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA JEPANG HD","harga_minipack":150000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":60000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":180000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":360000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA LENGKAP","harga_minipack":720000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA MVP","harga_minipack":10000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA MVP","harga_minipack":50000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA MVP","harga_minipack":100000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":10000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":30000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":60000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA NICK","harga_minipack":120000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":50000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":150000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":300000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA OLAHRAGA","harga_minipack":600000,"durasi_paket":"12 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":200000,"durasi_paket":"1 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":600000,"durasi_paket":"3 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":1200000,"durasi_paket":"6 MONTH"},{"nama_paket":"NUSA PREMIUM","harga_minipack":2400000,"durasi_paket":"12 MONTH"}]}
+2020-11-29 11:58:29 INFO  PrintOutput:41 - Disconnecting from http..
+2020-11-29 11:58:29 INFO  PrintOutput:41 - Disconnected
+2020-11-29 12:19:42 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/setminipack
+2020-11-29 12:19:42 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/getminipack
+2020-11-29 12:19:42 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-29 12:19:42 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-29 12:19:42 INFO  PrintOutput:41 - ----------------------------
+2020-11-29 12:19:42 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-29 12:19:48 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-29 12:19:48 INFO  PrintOutput:41 - 
+2020-11-29 12:19:48 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-29 12:19:48 INFO  PrintOutput:41 - RECORD : 3 - STB_ID : 69590898 - NAMA-PAKET : NUSA FTA - DURASI : 10 YEAR
+2020-11-29 12:19:48 INFO  PrintOutput:41 - Parameter sent to Server = {duration=10 YEAR, packagename=NUSA FTA, smartcard=69590898}
+2020-11-29 12:19:48 INFO  PrintOutput:41 - Parameter sent to Server Formated = duration=10+YEAR&packagename=NUSA+FTA&smartcard=69590898
+2020-11-29 12:19:48 INFO  PrintOutput:41 - Connecting..
+2020-11-29 12:19:49 INFO  PrintOutput:41 - Connected..
+2020-11-29 12:19:49 INFO  PrintOutput:41 - Sending message..
+2020-11-29 12:19:49 INFO  PrintOutput:41 - message sent..
+2020-11-29 12:19:49 INFO  PrintOutput:41 - Response reading...
+2020-11-29 12:19:49 INFO  PrintOutput:41 - Server Response = {"status":"200","message":"Berhasil"}
+2020-11-29 12:19:49 INFO  PrintOutput:41 - Disconnecting from http..
+2020-11-29 12:19:49 INFO  PrintOutput:41 - Disconnected
+2020-11-29 12:19:49 INFO  PrintOutput:41 - Response status = 200
+2020-11-29 12:19:49 INFO  PrintOutput:41 - Found Message = Berhasil
+2020-11-29 12:23:49 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/setminipack
+2020-11-29 12:23:49 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/getminipack
+2020-11-29 12:23:49 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-29 12:23:49 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-29 12:23:49 INFO  PrintOutput:41 - ----------------------------
+2020-11-29 12:23:49 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-29 12:23:54 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-29 12:23:55 INFO  PrintOutput:41 - 
+2020-11-29 12:23:55 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-29 12:23:55 INFO  PrintOutput:41 - RECORD : 3 - STB_ID : 69590898 - NAMA-PAKET : NUSA FTA - DURASI : 10 YEAR
+2020-11-29 12:23:55 INFO  PrintOutput:41 - Parameter sent to Server = {duration=10 YEAR, packagename=NUSA FTA, smartcard=69590898}
+2020-11-29 12:23:55 INFO  PrintOutput:41 - Parameter sent to Server Formated = duration=10+YEAR&packagename=NUSA+FTA&smartcard=69590898
+2020-11-29 12:23:55 INFO  PrintOutput:41 - Connecting..
+2020-11-29 12:23:55 INFO  PrintOutput:41 - Connected..
+2020-11-29 12:23:55 INFO  PrintOutput:41 - Sending message..
+2020-11-29 12:23:55 INFO  PrintOutput:41 - message sent..
+2020-11-29 12:23:55 INFO  PrintOutput:41 - Response reading...
+2020-11-29 12:23:55 INFO  PrintOutput:41 - Server Response = {"status":"200","message":"Berhasil"}
+2020-11-29 12:23:55 INFO  PrintOutput:41 - Disconnecting from http..
+2020-11-29 12:23:55 INFO  PrintOutput:41 - Disconnected
+2020-11-29 12:23:55 INFO  PrintOutput:41 - Response status = 200
+2020-11-29 12:23:55 INFO  PrintOutput:41 - Found Message = Berhasil
+2020-11-29 12:23:55 INFO  PrintOutput:41 - FINISH with Exception, CLOSING DB CONNECTION & java.sql.SQLSyntaxErrorException: ORA-01756: quoted string not properly terminated
+
+2020-11-29 12:23:55 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-29 12:23:55 INFO  PrintOutput:41 - -----------------------------
+2020-11-29 12:27:31 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/setminipack
+2020-11-29 12:27:31 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/getminipack
+2020-11-29 12:27:31 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-29 12:27:31 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-29 12:27:31 INFO  PrintOutput:41 - ----------------------------
+2020-11-29 12:27:31 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-29 12:27:37 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-29 12:27:37 INFO  PrintOutput:41 - 
+2020-11-29 12:27:37 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-29 12:27:37 INFO  PrintOutput:41 - RECORD : 3 - STB_ID : 69590898 - NAMA-PAKET : NUSA FTA - DURASI : 10 YEAR
+2020-11-29 12:27:37 INFO  PrintOutput:41 - Parameter sent to Server = {duration=10 YEAR, packagename=NUSA FTA, smartcard=69590898}
+2020-11-29 12:27:37 INFO  PrintOutput:41 - Parameter sent to Server Formated = duration=10+YEAR&packagename=NUSA+FTA&smartcard=69590898
+2020-11-29 12:27:37 INFO  PrintOutput:41 - Connecting..
+2020-11-29 12:27:37 INFO  PrintOutput:41 - Connected..
+2020-11-29 12:27:37 INFO  PrintOutput:41 - Sending message..
+2020-11-29 12:27:37 INFO  PrintOutput:41 - message sent..
+2020-11-29 12:27:37 INFO  PrintOutput:41 - Response reading...
+2020-11-29 12:27:38 INFO  PrintOutput:41 - Server Response = {"status":"200","message":"Berhasil"}
+2020-11-29 12:27:38 INFO  PrintOutput:41 - Disconnecting from http..
+2020-11-29 12:27:38 INFO  PrintOutput:41 - Disconnected
+2020-11-29 12:27:38 INFO  PrintOutput:41 - Response status = 200
+2020-11-29 12:27:38 INFO  PrintOutput:41 - Found Message = Berhasil
+2020-11-29 12:27:38 INFO  PrintOutput:41 - Updating to database success..
+2020-11-29 12:27:38 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-29 12:27:38 INFO  PrintOutput:41 - -----------------------------
+2020-11-29 17:51:35 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/setminipack
+2020-11-29 17:51:35 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/getminipack
+2020-11-29 17:51:35 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-29 17:51:35 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-29 17:51:35 INFO  PrintOutput:41 - ----------------------------
+2020-11-29 17:51:35 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-29 17:51:41 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-29 17:51:41 INFO  PrintOutput:41 - 
+2020-11-29 17:51:41 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-29 17:51:41 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-29 17:51:41 INFO  PrintOutput:41 - -----------------------------
+2020-11-29 17:54:08 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/setminipack
+2020-11-29 17:54:08 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/getminipack
+2020-11-29 17:54:08 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-29 17:54:08 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-29 17:54:08 INFO  PrintOutput:41 - ----------------------------
+2020-11-29 17:54:08 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-29 17:54:14 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-29 17:54:14 INFO  PrintOutput:41 - 
+2020-11-29 17:54:14 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-29 17:54:14 INFO  PrintOutput:41 - RECORD : 3 - STB_ID : 69590898 - NAMA-PAKET : NUSA FTA - DURASI : 10 YEAR
+2020-11-29 17:54:14 INFO  PrintOutput:41 - Parameter sent to Server = {duration=10 YEAR, packagename=NUSA FTA, smartcard=69590898}
+2020-11-29 17:54:14 INFO  PrintOutput:41 - Parameter sent to Server Formated = duration=10+YEAR&packagename=NUSA+FTA&smartcard=69590898
+2020-11-29 17:54:14 INFO  PrintOutput:41 - Connecting..
+2020-11-29 17:54:15 INFO  PrintOutput:41 - Connected..
+2020-11-29 17:54:15 INFO  PrintOutput:41 - Sending message..
+2020-11-29 17:54:15 INFO  PrintOutput:41 - message sent..
+2020-11-29 17:54:15 INFO  PrintOutput:41 - Response reading...
+2020-11-29 17:54:15 INFO  PrintOutput:41 - Server Response = {"status":"200","message":"Berhasil"}
+2020-11-29 17:54:15 INFO  PrintOutput:41 - Disconnecting from http..
+2020-11-29 17:54:15 INFO  PrintOutput:41 - Disconnected
+2020-11-29 17:54:15 INFO  PrintOutput:41 - Response status = 200
+2020-11-29 17:54:15 INFO  PrintOutput:41 - Found Message = Berhasil
+2020-11-29 17:54:15 INFO  PrintOutput:41 - Updating to database success..
+2020-11-29 17:54:15 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-29 17:54:15 INFO  PrintOutput:41 - -----------------------------
+2020-11-29 17:55:16 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/setminipack
+2020-11-29 17:55:16 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/getminipack
+2020-11-29 17:55:16 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-29 17:55:16 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-29 17:55:16 INFO  PrintOutput:41 - ----------------------------
+2020-11-29 17:55:16 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-29 17:55:22 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-29 17:55:22 INFO  PrintOutput:41 - 
+2020-11-29 17:55:22 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-29 17:55:22 INFO  PrintOutput:41 - RECORD : 3 - STB_ID : 69590898 - NAMA-PAKET : NUSA FTA1 - DURASI : 10 YEAR
+2020-11-29 17:55:22 INFO  PrintOutput:41 - Parameter sent to Server = {duration=10 YEAR, packagename=NUSA FTA1, smartcard=69590898}
+2020-11-29 17:55:22 INFO  PrintOutput:41 - Parameter sent to Server Formated = duration=10+YEAR&packagename=NUSA+FTA1&smartcard=69590898
+2020-11-29 17:55:22 INFO  PrintOutput:41 - Connecting..
+2020-11-29 17:55:22 INFO  PrintOutput:41 - Connected..
+2020-11-29 17:55:22 INFO  PrintOutput:41 - Sending message..
+2020-11-29 17:55:22 INFO  PrintOutput:41 - message sent..
+2020-11-29 17:55:22 INFO  PrintOutput:41 - Response reading...
+2020-11-29 17:55:22 INFO  PrintOutput:41 - Server Response = {"status":"404","message":"Paket tidak ditemukan"}
+2020-11-29 17:55:22 INFO  PrintOutput:41 - Disconnecting from http..
+2020-11-29 17:55:22 INFO  PrintOutput:41 - Disconnected
+2020-11-29 17:55:22 INFO  PrintOutput:41 - Response status = 404
+2020-11-29 17:55:22 INFO  PrintOutput:41 - Found Message = Paket tidak ditemukan
+2020-11-29 17:55:22 INFO  PrintOutput:41 - Updating to database success..
+2020-11-29 17:55:22 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-29 17:55:22 INFO  PrintOutput:41 - -----------------------------
+2020-11-29 17:57:00 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/setminipack
+2020-11-29 17:57:00 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/getminipack
+2020-11-29 17:57:00 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-29 17:57:00 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-29 17:57:00 INFO  PrintOutput:41 - ----------------------------
+2020-11-29 17:57:00 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-29 17:57:06 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-29 17:57:06 INFO  PrintOutput:41 - 
+2020-11-29 17:57:06 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-29 17:57:06 INFO  PrintOutput:41 - RECORD : 3 - STB_ID : 69590898 - NAMA-PAKET : NUSA FTA1 - DURASI : 10 YEAR
+2020-11-29 17:57:06 INFO  PrintOutput:41 - Parameter sent to Server = {duration=10 YEAR, packagename=NUSA FTA1, smartcard=69590898}
+2020-11-29 17:57:06 INFO  PrintOutput:41 - Parameter sent to Server Formated = duration=10+YEAR&packagename=NUSA+FTA1&smartcard=69590898
+2020-11-29 17:57:06 INFO  PrintOutput:41 - Connecting..
+2020-11-29 17:57:06 INFO  PrintOutput:41 - Connected..
+2020-11-29 17:57:06 INFO  PrintOutput:41 - Sending message..
+2020-11-29 17:57:06 INFO  PrintOutput:41 - message sent..
+2020-11-29 17:57:06 INFO  PrintOutput:41 - Response reading...
+2020-11-29 17:57:07 INFO  PrintOutput:41 - Server Response = {"status":"404","message":"Paket tidak ditemukan"}
+2020-11-29 17:57:07 INFO  PrintOutput:41 - Disconnecting from http..
+2020-11-29 17:57:07 INFO  PrintOutput:41 - Disconnected
+2020-11-29 17:57:07 INFO  PrintOutput:41 - Response status = 404
+2020-11-29 17:57:07 INFO  PrintOutput:41 - Found Message = Paket tidak ditemukan
+2020-11-29 17:57:07 INFO  PrintOutput:41 - Updating to database success..
+2020-11-29 17:57:07 INFO  PrintOutput:41 - RECORD : 4 - STB_ID : 69590898X - NAMA-PAKET : NUSA FTA - DURASI : 10 YEAR
+2020-11-29 17:57:07 INFO  PrintOutput:41 - Parameter sent to Server = {duration=10 YEAR, packagename=NUSA FTA, smartcard=69590898X}
+2020-11-29 17:57:07 INFO  PrintOutput:41 - Parameter sent to Server Formated = duration=10+YEAR&packagename=NUSA+FTA&smartcard=69590898X
+2020-11-29 17:57:07 INFO  PrintOutput:41 - Connecting..
+2020-11-29 17:57:07 INFO  PrintOutput:41 - Connected..
+2020-11-29 17:57:07 INFO  PrintOutput:41 - Sending message..
+2020-11-29 17:57:07 INFO  PrintOutput:41 - message sent..
+2020-11-29 17:57:07 INFO  PrintOutput:41 - Response reading...
+2020-11-29 17:57:07 INFO  PrintOutput:41 - Server Response = {"status":null,"message":null}
+2020-11-29 17:57:07 INFO  PrintOutput:41 - Disconnecting from http..
+2020-11-29 17:57:07 INFO  PrintOutput:41 - Disconnected
+2020-11-29 17:57:07 INFO  PrintOutput:41 - Response status = null
+2020-11-29 17:57:07 INFO  PrintOutput:41 - Found Message = null
+2020-11-29 17:57:07 INFO  PrintOutput:41 - Updating to database success..
+2020-11-29 17:57:07 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-29 17:57:07 INFO  PrintOutput:41 - -----------------------------
+2020-11-29 18:03:46 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/setminipack
+2020-11-29 18:03:46 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/getminipack
+2020-11-29 18:03:46 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-29 18:03:46 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-29 18:03:46 INFO  PrintOutput:41 - ----------------------------
+2020-11-29 18:03:46 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-29 18:03:51 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-29 18:03:52 INFO  PrintOutput:41 - 
+2020-11-29 18:03:52 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-29 18:03:52 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-29 18:03:52 INFO  PrintOutput:41 - -----------------------------
+2020-11-29 18:08:46 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/setminipack
+2020-11-29 18:08:46 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/getminipack
+2020-11-29 18:08:46 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-29 18:08:46 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-29 18:08:46 INFO  PrintOutput:41 - ----------------------------
+2020-11-29 18:08:46 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-29 18:08:52 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-29 18:08:52 INFO  PrintOutput:41 - 
+2020-11-29 18:08:52 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-29 18:08:52 INFO  PrintOutput:41 - 
+2020-11-29 18:08:52 INFO  PrintOutput:41 - No record to process.
+2020-11-29 18:08:52 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-29 18:08:52 INFO  PrintOutput:41 - -----------------------------
+2020-11-29 18:12:08 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/setminipack
+2020-11-29 18:12:08 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/getminipack
+2020-11-29 18:12:08 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-29 18:12:08 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-29 18:12:08 INFO  PrintOutput:41 - ----------------------------
+2020-11-29 18:12:08 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-29 18:12:14 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-29 18:12:14 INFO  PrintOutput:41 - 
+2020-11-29 18:12:14 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-29 18:12:14 INFO  PrintOutput:41 - 
+2020-11-29 18:12:14 INFO  PrintOutput:41 - No record to process.
+2020-11-29 18:12:14 INFO  PrintOutput:41 - 
+2020-11-29 18:12:14 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-29 18:12:14 INFO  PrintOutput:41 - -----------------------------
+2020-11-29 18:12:42 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/setminipack
+2020-11-29 18:12:42 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/getminipack
+2020-11-29 18:12:42 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-29 18:12:42 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-29 18:12:42 INFO  PrintOutput:41 - ----------------------------
+2020-11-29 18:12:42 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-29 18:12:48 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-29 18:12:48 INFO  PrintOutput:41 - 
+2020-11-29 18:12:48 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-29 18:12:48 INFO  PrintOutput:41 - 
+2020-11-29 18:12:48 INFO  PrintOutput:41 - NEW RECORD : 3 - STB_ID : 69590898 - NAMA-PAKET : NUSA FTA1 - DURASI : 10 YEAR
+2020-11-29 18:12:48 INFO  PrintOutput:41 - Parameter sent to Server = {duration=10 YEAR, packagename=NUSA FTA1, smartcard=69590898}
+2020-11-29 18:12:48 INFO  PrintOutput:41 - Parameter sent to Server Formated = duration=10+YEAR&packagename=NUSA+FTA1&smartcard=69590898
+2020-11-29 18:12:48 INFO  PrintOutput:41 - Connecting..
+2020-11-29 18:12:48 INFO  PrintOutput:41 - Connected..
+2020-11-29 18:12:48 INFO  PrintOutput:41 - Sending message..
+2020-11-29 18:12:48 INFO  PrintOutput:41 - message sent..
+2020-11-29 18:12:48 INFO  PrintOutput:41 - Response reading...
+2020-11-29 18:12:49 INFO  PrintOutput:41 - Server Response = {"status":"404","message":"Paket tidak ditemukan"}
+2020-11-29 18:12:49 INFO  PrintOutput:41 - Disconnecting from http..
+2020-11-29 18:12:49 INFO  PrintOutput:41 - Disconnected
+2020-11-29 18:12:49 INFO  PrintOutput:41 - Response status = 404
+2020-11-29 18:12:49 INFO  PrintOutput:41 - Found Message = Paket tidak ditemukan
+2020-11-29 18:12:49 INFO  PrintOutput:41 - Updating to database success..
+2020-11-29 18:12:49 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-29 18:12:49 INFO  PrintOutput:41 - -----------------------------
+2020-11-29 18:17:06 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/setminipack
+2020-11-29 18:17:06 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/getminipack
+2020-11-29 18:17:06 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-29 18:17:06 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-29 18:17:06 INFO  PrintOutput:41 - ----------------------------
+2020-11-29 18:17:06 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-29 18:17:12 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-29 18:17:12 INFO  PrintOutput:41 - 
+2020-11-29 18:17:12 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-29 18:17:12 INFO  PrintOutput:41 - 
+2020-11-29 18:17:12 INFO  PrintOutput:41 - No record to process.
+2020-11-29 18:17:12 INFO  PrintOutput:41 - 
+2020-11-29 18:17:12 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-29 18:17:12 INFO  PrintOutput:41 - -----------------------------
+2020-11-29 18:19:59 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/setminipack
+2020-11-29 18:19:59 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/getminipack
+2020-11-29 18:19:59 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-29 18:19:59 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-29 18:19:59 INFO  PrintOutput:41 - ----------------------------
+2020-11-29 18:19:59 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-29 18:20:05 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-29 18:20:05 INFO  PrintOutput:41 - 
+2020-11-29 18:20:05 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-29 18:20:05 INFO  PrintOutput:41 - 
+2020-11-29 18:20:05 INFO  PrintOutput:41 - No record to process.
+2020-11-29 18:20:05 INFO  PrintOutput:41 - 
+2020-11-29 18:20:05 INFO  PrintOutput:41 - Success::FINISH, CLOSING DB CONNECTION
+2020-11-29 18:20:05 INFO  PrintOutput:41 - Success::-----------------------------
+2020-11-29 19:10:42 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/setminipack
+2020-11-29 19:10:42 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/getminipack
+2020-11-29 19:10:42 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-29 19:10:42 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-29 19:10:42 INFO  PrintOutput:41 - ----------------------------
+2020-11-29 19:10:42 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-29 19:10:48 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-29 19:10:48 INFO  PrintOutput:41 - 
+2020-11-29 19:10:48 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-29 19:10:48 INFO  PrintOutput:41 - 
+2020-11-29 19:10:48 INFO  PrintOutput:41 - NEW RECORD : 1 - STB_ID : 69590898X - NAMA-PAKET : NUSA FTA - DURASI : 10 YEAR
+2020-11-29 19:10:48 INFO  PrintOutput:41 - Parameter sent to Server = {duration=10 YEAR, packagename=NUSA FTA, smartcard=69590898X}
+2020-11-29 19:10:48 INFO  PrintOutput:41 - Parameter sent to Server Formated = duration=10+YEAR&packagename=NUSA+FTA&smartcard=69590898X
+2020-11-29 19:10:48 INFO  PrintOutput:41 - Connecting..
+2020-11-29 19:10:48 INFO  PrintOutput:41 - Connected..
+2020-11-29 19:10:48 INFO  PrintOutput:41 - Sending message..
+2020-11-29 19:10:48 INFO  PrintOutput:41 - Success::message sent..
+2020-11-29 19:10:48 INFO  PrintOutput:41 - Response reading...
+2020-11-29 19:10:48 INFO  PrintOutput:41 - Server Response = {"status":"404","message":"Smartcard Not Found"}
+2020-11-29 19:10:48 INFO  PrintOutput:41 - Disconnecting from http..
+2020-11-29 19:10:48 INFO  PrintOutput:41 - Disconnected
+2020-11-29 19:10:48 INFO  PrintOutput:41 - Response status = 404
+2020-11-29 19:10:48 INFO  PrintOutput:41 - Found Message = Smartcard Not Found
+2020-11-29 19:10:48 INFO  PrintOutput:41 - Success::Updating to database..404-Smartcard Not Found
+2020-11-29 19:10:48 INFO  PrintOutput:41 - 
+2020-11-29 19:10:48 INFO  PrintOutput:41 - NEW RECORD : 2 - STB_ID : 69590898 - NAMA-PAKET : NUSA FTA - DURASI : 10 YEAR
+2020-11-29 19:10:48 INFO  PrintOutput:41 - Parameter sent to Server = {duration=10 YEAR, packagename=NUSA FTA, smartcard=69590898}
+2020-11-29 19:10:48 INFO  PrintOutput:41 - Parameter sent to Server Formated = duration=10+YEAR&packagename=NUSA+FTA&smartcard=69590898
+2020-11-29 19:10:48 INFO  PrintOutput:41 - Connecting..
+2020-11-29 19:10:48 INFO  PrintOutput:41 - Connected..
+2020-11-29 19:10:48 INFO  PrintOutput:41 - Sending message..
+2020-11-29 19:10:48 INFO  PrintOutput:41 - Success::message sent..
+2020-11-29 19:10:48 INFO  PrintOutput:41 - Response reading...
+2020-11-29 19:10:49 INFO  PrintOutput:41 - Server Response = {"status":"200","message":"Berhasil"}
+2020-11-29 19:10:49 INFO  PrintOutput:41 - Disconnecting from http..
+2020-11-29 19:10:49 INFO  PrintOutput:41 - Disconnected
+2020-11-29 19:10:49 INFO  PrintOutput:41 - Response status = 200
+2020-11-29 19:10:49 INFO  PrintOutput:41 - Found Message = Berhasil
+2020-11-29 19:10:49 INFO  PrintOutput:41 - Success::Updating to database..200-Berhasil
+2020-11-29 19:10:49 INFO  PrintOutput:41 - Success::FINISH, CLOSING DB CONNECTION
+2020-11-29 19:10:49 INFO  PrintOutput:41 - Success::-----------------------------
+2020-11-29 19:12:57 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/setminipack
+2020-11-29 19:12:57 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/getminipack
+2020-11-29 19:12:57 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-29 19:12:57 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-29 19:12:57 INFO  PrintOutput:41 - ----------------------------
+2020-11-29 19:12:57 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-29 19:13:03 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-29 19:13:03 INFO  PrintOutput:41 - 
+2020-11-29 19:13:03 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-29 19:13:03 INFO  PrintOutput:41 - 
+2020-11-29 19:13:03 INFO  PrintOutput:41 - No record to process.
+2020-11-29 19:13:03 INFO  PrintOutput:41 - 
+2020-11-29 19:13:03 INFO  PrintOutput:41 - Success::FINISH, CLOSING DB CONNECTION
+2020-11-29 19:13:03 INFO  PrintOutput:41 - Success::-----------------------------

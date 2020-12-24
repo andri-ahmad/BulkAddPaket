@@ -1,0 +1,14 @@
+2020-12-06 06:27:37 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/setminipack
+2020-12-06 06:27:37 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/getminipack
+2020-12-06 06:27:37 INFO  PrintOutput:41 - ----------------------------------------
+2020-12-06 06:27:37 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-12-06 06:27:37 INFO  PrintOutput:41 - ----------------------------
+2020-12-06 06:27:37 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-12-06 06:27:38 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-12-06 06:27:39 INFO  PrintOutput:41 - 
+2020-12-06 06:27:39 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-12-06 06:27:39 INFO  PrintOutput:41 - 
+2020-12-06 06:27:39 INFO  PrintOutput:41 - No record to process.
+2020-12-06 06:27:39 INFO  PrintOutput:41 - 
+2020-12-06 06:27:39 INFO  PrintOutput:41 - Success::FINISH, CLOSING DB CONNECTION
+2020-12-06 06:27:39 INFO  PrintOutput:41 - Success::-----------------------------

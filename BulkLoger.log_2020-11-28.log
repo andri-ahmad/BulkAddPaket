@@ -1,0 +1,139 @@
+2020-11-28 20:26:26 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-28 20:26:26 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-28 20:26:26 INFO  PrintOutput:41 - ----------------------------
+2020-11-28 20:26:26 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-28 20:26:32 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-28 20:26:32 INFO  PrintOutput:41 - 
+2020-11-28 20:26:32 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-28 20:26:32 INFO  PrintOutput:41 - RECORD : 244 - VC : 41500609999
+2020-11-28 20:26:32 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-28 20:26:32 INFO  PrintOutput:41 - -----------------------------
+2020-11-28 20:26:56 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-28 20:26:56 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-28 20:26:56 INFO  PrintOutput:41 - ----------------------------
+2020-11-28 20:26:56 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-28 20:27:02 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-28 20:27:02 INFO  PrintOutput:41 - 
+2020-11-28 20:27:02 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-28 20:27:02 INFO  PrintOutput:41 - RECORD : 244 - VC : 41500609999
+2020-11-28 20:27:02 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-28 20:27:02 INFO  PrintOutput:41 - -----------------------------
+2020-11-28 20:29:47 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-28 20:29:47 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-28 20:29:47 INFO  PrintOutput:41 - ----------------------------
+2020-11-28 20:29:47 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-28 20:29:53 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-28 20:29:53 INFO  PrintOutput:41 - 
+2020-11-28 20:29:53 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-28 20:29:53 INFO  PrintOutput:41 - RECORD : 244 - VC : 41500609999
+2020-11-28 20:29:53 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-28 20:29:53 INFO  PrintOutput:41 - -----------------------------
+2020-11-28 20:48:09 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-28 20:48:09 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-28 20:48:09 INFO  PrintOutput:41 - ----------------------------
+2020-11-28 20:48:09 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-28 20:48:15 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-28 20:48:15 INFO  PrintOutput:41 - 
+2020-11-28 20:48:15 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-28 20:48:15 INFO  PrintOutput:41 - RECORD : 244 - VC : 41500609999
+2020-11-28 20:48:15 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-28 20:48:15 INFO  PrintOutput:41 - -----------------------------
+2020-11-28 20:54:12 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-28 20:54:12 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-28 20:54:12 INFO  PrintOutput:41 - ----------------------------
+2020-11-28 20:54:12 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-28 20:54:18 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-28 20:54:18 INFO  PrintOutput:41 - 
+2020-11-28 20:54:18 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-28 20:54:18 INFO  PrintOutput:41 - RECORD : 244 - VC : 41500609999
+2020-11-28 20:54:18 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-28 20:54:18 INFO  PrintOutput:41 - -----------------------------
+2020-11-28 21:43:57 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-28 21:43:57 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-28 21:43:57 INFO  PrintOutput:41 - ----------------------------
+2020-11-28 21:43:57 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-28 21:44:03 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-28 21:44:24 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-28 21:44:24 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-28 21:44:24 INFO  PrintOutput:41 - ----------------------------
+2020-11-28 21:44:24 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-28 21:44:30 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-28 21:44:30 INFO  PrintOutput:41 - 
+2020-11-28 21:44:30 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-28 21:44:30 INFO  PrintOutput:41 - RECORD : 3 - STB_ID : 69590898 - NAMA-PAKET : NUSA FTA - DURASI : 10 YEAR
+2020-11-28 21:44:30 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-28 21:44:30 INFO  PrintOutput:41 - -----------------------------
+2020-11-28 22:56:42 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-28 22:56:42 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-28 22:56:42 INFO  PrintOutput:41 - ----------------------------
+2020-11-28 22:56:42 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-28 22:56:48 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-28 22:56:49 INFO  PrintOutput:41 - 
+2020-11-28 22:56:49 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-28 22:56:49 INFO  PrintOutput:41 - RECORD : 3 - STB_ID : 69590898 - NAMA-PAKET : NUSA FTA - DURASI : 10 YEAR
+2020-11-28 22:56:49 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-28 22:56:49 INFO  PrintOutput:41 - -----------------------------
+2020-11-28 23:01:29 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/setminipack
+2020-11-28 23:01:29 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-28 23:01:29 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-28 23:01:29 INFO  PrintOutput:41 - ----------------------------
+2020-11-28 23:01:29 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-28 23:01:35 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-28 23:01:35 INFO  PrintOutput:41 - 
+2020-11-28 23:01:35 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-28 23:01:35 INFO  PrintOutput:41 - RECORD : 3 - STB_ID : 69590898 - NAMA-PAKET : NUSA FTA - DURASI : 10 YEAR
+2020-11-28 23:01:36 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-28 23:01:36 INFO  PrintOutput:41 - -----------------------------
+2020-11-28 23:07:36 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/setminipack
+2020-11-28 23:07:36 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-28 23:07:36 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-28 23:07:36 INFO  PrintOutput:41 - ----------------------------
+2020-11-28 23:07:36 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-28 23:07:42 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-28 23:07:42 INFO  PrintOutput:41 - 
+2020-11-28 23:07:42 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-28 23:07:42 INFO  PrintOutput:41 - RECORD : 3 - STB_ID : 69590898 - NAMA-PAKET : NUSA FTA - DURASI : 10 YEAR
+2020-11-28 23:07:42 INFO  PrintOutput:41 - Parameter sent to Server {duration=10 YEAR, packagename=NUSA FTA, smartcard=3}
+2020-11-28 23:07:42 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-28 23:07:42 INFO  PrintOutput:41 - -----------------------------
+2020-11-28 23:11:56 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/setminipack
+2020-11-28 23:11:56 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-28 23:11:56 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-28 23:11:56 INFO  PrintOutput:41 - ----------------------------
+2020-11-28 23:11:56 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-28 23:12:02 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-28 23:12:02 INFO  PrintOutput:41 - 
+2020-11-28 23:12:02 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-28 23:12:02 INFO  PrintOutput:41 - RECORD : 3 - STB_ID : 69590898 - NAMA-PAKET : NUSA FTA - DURASI : 10 YEAR
+2020-11-28 23:12:02 INFO  PrintOutput:41 - Parameter sent to Server = {duration=10 YEAR, packagename=NUSA FTA, smartcard=69590898}
+2020-11-28 23:12:03 INFO  PrintOutput:41 - Response JSON from Server = {"status":"200","message":"Berhasil"}
+2020-11-28 23:12:03 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-28 23:12:03 INFO  PrintOutput:41 - -----------------------------
+2020-11-28 23:19:02 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/setminipack
+2020-11-28 23:19:02 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-28 23:19:02 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-28 23:19:02 INFO  PrintOutput:41 - ----------------------------
+2020-11-28 23:19:02 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-28 23:19:08 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-28 23:19:08 INFO  PrintOutput:41 - 
+2020-11-28 23:19:08 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-28 23:19:08 INFO  PrintOutput:41 - RECORD : 3 - STB_ID : 69590898 - NAMA-PAKET : NUSA FTA - DURASI : 10 YEAR
+2020-11-28 23:19:09 INFO  PrintOutput:41 - Parameter sent to Server = {duration=10 YEAR, packagename=NUSA FTA, smartcard=69590898}
+2020-11-28 23:19:09 INFO  PrintOutput:41 - Parameter sent to Server Formated = duration=10+YEAR&packagename=NUSA+FTA&smartcard=69590898
+2020-11-28 23:19:09 INFO  PrintOutput:41 - Response JSON from Server = {"status":"200","message":"Berhasil"}
+2020-11-28 23:19:09 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-28 23:19:09 INFO  PrintOutput:41 - -----------------------------
+2020-11-28 23:24:10 INFO  PrintOutput:41 - Found URL = https://nusantara.transvision.co.id/api/nusantara/setminipack
+2020-11-28 23:24:10 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-28 23:24:10 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-28 23:24:10 INFO  PrintOutput:41 - ----------------------------
+2020-11-28 23:24:10 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-28 23:24:16 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-28 23:24:16 INFO  PrintOutput:41 - 
+2020-11-28 23:24:16 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-28 23:24:16 INFO  PrintOutput:41 - RECORD : 3 - STB_ID : 69590898 - NAMA-PAKET : NUSA FTA - DURASI : 10 YEAR
+2020-11-28 23:24:16 INFO  PrintOutput:41 - Parameter sent to Server = {duration=10 YEAR, packagename=NUSA FTA, smartcard=69590898}
+2020-11-28 23:24:16 INFO  PrintOutput:41 - Parameter sent to Server Formated = duration=10+YEAR&packagename=NUSA+FTA&smartcard=69590898
+2020-11-28 23:24:17 INFO  PrintOutput:41 - Response JSON from Server = {"status":"200","message":"Berhasil"}
+2020-11-28 23:24:17 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-28 23:24:17 INFO  PrintOutput:41 - -----------------------------

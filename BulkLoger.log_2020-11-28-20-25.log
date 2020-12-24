@@ -1,0 +1,10 @@
+2020-11-28 20:25:02 INFO  PrintOutput:41 - ----------------------------------------
+2020-11-28 20:25:02 INFO  PrintOutput:41 - ++++ BULK MANAGEMENT FOR NUSANTARA +++++
+2020-11-28 20:25:02 INFO  PrintOutput:41 - ----------------------------
+2020-11-28 20:25:02 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION
+2020-11-28 20:25:08 INFO  PrintOutput:41 - OPENING DATABASE CONNECTION [DONE]
+2020-11-28 20:25:08 INFO  PrintOutput:41 - 
+2020-11-28 20:25:08 INFO  PrintOutput:41 - PROCESSING RECORD..
+2020-11-28 20:25:08 INFO  PrintOutput:41 - RECORD : 244 - VC : 41500609999
+2020-11-28 20:25:08 INFO  PrintOutput:41 - FINISH, CLOSING DB CONNECTION
+2020-11-28 20:25:08 INFO  PrintOutput:41 - -----------------------------
